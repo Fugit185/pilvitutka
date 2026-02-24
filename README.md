@@ -82,3 +82,7 @@ Telegram-viesti lähetetään kun:
 - Open-Meteo API
 - Telegram Bot API
 - Raspberry Pi
+
+## Tunnukset
+
+Telegram-tokenit ja muut API-avaimet löytyvät Macilta: 
